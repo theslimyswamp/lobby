@@ -1,5 +1,7 @@
 # TSS Lobby World
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > [The Slimy Swamp](https://github.com/TheSlimySwamp)'s lobby world.
 
 - This project is abandoned.

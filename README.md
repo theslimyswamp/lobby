@@ -2,10 +2,7 @@
 
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
-> [The Slimy Swamp](https://github.com/TheSlimySwamp)'s lobby world.
-
-- This project is abandoned.
-- This is an old version of the lobby. The latest versions have been unfortunately lost.
+> [The Slimy Swamp](https://github.com/TheSlimySwamp)'s lobby world. This is an old version of the lobby. The latest versions have been unfortunately lost.
 
 ## License
 

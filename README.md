@@ -1,6 +1,6 @@
 # The Slimy Swamp Lobby
 
-[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+[![Project status: abandoned](./assets/images/badges/status.svg)](./)
 
 > [The Slimy Swamp](https://github.com/TheSlimySwamp)'s lobby world.
 

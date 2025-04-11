@@ -1,4 +1,4 @@
-# TSS Lobby World
+# The Slimy Swamp Lobby
 
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
